@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/comp426-2022-fall/a03-valeriesho#readme",
   "dependencies": {
-    "minimist": "^1.2.7"
+    "minimist": "^1.2.7",
+    "node": "^19.2.0",
+    "nodejs": "^0.0.0"
   }
 }
